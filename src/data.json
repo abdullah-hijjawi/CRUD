@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "obada",
+    "address": "amman",
+    "section": "software"
+  },
+  {
+    "id": 2,
+    "name": "abdullah",
+    "address": "irbid",
+    "section": "sale"
+  },
+  {
+    "id": 3,
+    "name": "ahmed",
+    "address": "USA",
+    "section": "finance"
+  }
+]

@@ -1,0 +1,71 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+  
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 12px 15px;
+  font-size: 32px;
+  
+}
+
+th {
+  background-color: #009879;
+}
+
+td {
+  background-color: #f3f3f3;
+  
+}
+
+
+form {
+  display: flex;
+  gap: 5px;
+  
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+form * {
+  font-size: 28px;
+  
+  
+}
+
+button{
+  position: relative;
+  display: inline-block;
+  padding: 12px 36px;
+  margin: 10px 0;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+  letter-spacing: 2px;
+  border-radius: 40px;
+  background: linear-gradient(90deg,#0279f8,#55e7fc);
+}
+
+button:nth-child(2){
+  background: linear-gradient(90deg,#755bea,#ff72c0);
+}
+
+
+  
